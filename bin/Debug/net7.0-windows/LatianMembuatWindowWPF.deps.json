@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LatianMembuatWindowWPF/1.0.0": {
+        "runtime": {
+          "LatianMembuatWindowWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LatianMembuatWindowWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
